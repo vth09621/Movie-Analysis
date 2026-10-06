@@ -31,6 +31,4 @@ This project implements a wide array of SQL scripts, ranging from basic filterin
 ---
 
 ## 🚀 How to Use / Run the Project
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/vth09621/your-repository-name.git](https://github.com/vth09621/your-repository-name.git)
+ [https://github.com/vth09621/Movie-Analysis.git]    
