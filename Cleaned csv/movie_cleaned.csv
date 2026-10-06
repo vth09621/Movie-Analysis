@@ -1,0 +1,501 @@
+movie_id,title,genre,language,release_year,duration,country,rating_id,user_id,rating,rating_date,device,review_text,name,gender,age,city,signup_date,subscription_type
+1,Movie_1,Sci-Fi,Telugu,2005,124,UK,197,113,2,2024-11-15,TV,Must Watch,User_113,Female,55,Chennai,2023-08-07,Free
+2,Movie_2,Horror,English,2007,172,USA,201,171,3,2024-08-14,Mobile,Must Watch,User_171,Female,44,Chennai,2024-01-20,Premium
+2,Movie_2,Horror,English,2007,172,USA,290,159,1,2022-06-17,Mobile,Must Watch,User_159,Female,24,Kolkata,2021-12-22,Free
+3,Movie_3,Sci-Fi,Telugu,2018,94,Australia,124,226,1,2024-04-24,Laptop,Poor,User_226,Male,29,Delhi,2023-05-05,Free
+3,Movie_3,Sci-Fi,Telugu,2018,94,Australia,240,109,3,2023-04-03,Mobile,Good,User_109,Male,53,Pune,2020-05-03,Premium
+4,Movie_4,Drama,Telugu,2003,162,Canada,143,246,2,2023-08-12,Laptop,Average,User_246,Male,30,Pune,2021-04-12,Basic
+4,Movie_4,Drama,Telugu,2003,162,Canada,345,13,3,2024-02-12,Mobile,Excellent,User_13,Male,57,Pune,2022-07-04,Premium
+5,Movie_5,Horror,Kannada,2014,177,UK,374,173,3,2023-11-03,Mobile,Average,User_173,Male,15,Mumbai,2020-02-08,Premium
+5,Movie_5,Horror,Kannada,2014,177,UK,493,61,5,2024-06-28,Mobile,Excellent,User_61,Female,44,Delhi,2024-12-04,Premium
+6,Movie_6,Comedy,English,2013,153,India,120,236,4,2023-11-01,TV,Average,User_236,Female,26,Chennai,2022-03-06,Premium
+6,Movie_6,Comedy,English,2013,153,India,447,126,5,2023-03-23,Laptop,Poor,User_126,Female,53,Pune,2020-03-11,Free
+7,Movie_7,Comedy,Kannada,2024,110,India,366,185,3,2024-07-25,Laptop,Good,User_185,Male,42,Delhi,2020-01-25,Basic
+8,Movie_8,Comedy,Hindi,2007,168,UK,293,188,4,2024-10-22,TV,Average,User_188,Male,23,Delhi,2021-04-19,Free
+8,Movie_8,Comedy,Hindi,2007,168,UK,407,119,5,2023-10-22,TV,Poor,User_119,Male,47,Delhi,2022-03-17,Premium
+10,Movie_10,Drama,Hindi,2017,132,India,426,7,3,2024-12-06,Mobile,Excellent,User_7,Male,17,Delhi,2020-02-18,Basic
+11,Movie_11,Sci-Fi,Tamil,2007,89,Canada,440,32,3,2024-01-01,Laptop,Poor,User_32,Female,49,Kolkata,2020-11-14,Free
+11,Movie_11,Sci-Fi,Tamil,2007,89,Canada,485,159,5,2022-08-29,Laptop,Average,User_159,Female,24,Kolkata,2021-12-22,Free
+12,Movie_12,Drama,English,2023,145,Australia,436,25,3,2024-03-11,Mobile,Poor,User_25,Female,23,Chennai,2021-01-01,Basic
+13,Movie_13,Comedy,Hindi,2020,131,Canada,138,29,5,2022-11-21,Laptop,Average,User_29,Female,15,Kolkata,2022-03-24,Free
+13,Movie_13,Comedy,Hindi,2020,131,Canada,177,35,3,2022-09-01,TV,Average,User_35,Female,30,Delhi,2022-11-05,Premium
+13,Movie_13,Comedy,Hindi,2020,131,Canada,324,102,1,2022-06-15,TV,Must Watch,User_102,Male,53,Pune,2022-04-27,Free
+13,Movie_13,Comedy,Hindi,2020,131,Canada,409,205,5,2022-08-12,TV,Poor,User_205,Male,27,Delhi,2024-09-19,Premium
+14,Movie_14,Comedy,English,2021,137,UK,59,134,2,2023-03-09,TV,Good,User_134,Female,35,Pune,2020-12-30,Free
+14,Movie_14,Comedy,English,2021,137,UK,122,83,2,2023-01-07,TV,Average,User_83,Female,43,Delhi,2021-10-31,Basic
+15,Movie_15,Sci-Fi,Hindi,2000,123,USA,11,232,5,2024-02-01,Laptop,Must Watch,User_232,Male,22,Delhi,2020-02-25,Basic
+15,Movie_15,Sci-Fi,Hindi,2000,123,USA,262,79,5,2022-09-03,Laptop,Must Watch,User_79,Female,43,Mumbai,2022-07-21,Basic
+15,Movie_15,Sci-Fi,Hindi,2000,123,USA,462,48,3,2024-07-22,Mobile,Good,User_48,Male,41,Delhi,2021-07-20,Free
+16,Movie_16,Drama,Kannada,2016,147,UK,180,187,4,2023-11-27,Mobile,Good,User_187,Female,53,Kolkata,2022-09-22,Basic
+17,Movie_17,Comedy,Kannada,2003,133,Canada,67,134,4,2022-04-04,TV,Excellent,User_134,Female,35,Pune,2020-12-30,Free
+17,Movie_17,Comedy,Kannada,2003,133,Canada,207,12,4,2022-07-02,TV,Poor,User_12,Female,40,Pune,2020-11-22,Free
+17,Movie_17,Comedy,Kannada,2003,133,Canada,308,175,3,2024-09-02,Laptop,Must Watch,User_175,Male,59,Pune,2020-08-13,Premium
+17,Movie_17,Comedy,Kannada,2003,133,Canada,335,63,1,2024-05-30,TV,Must Watch,User_63,Male,23,Kolkata,2023-05-09,Basic
+18,Movie_18,Horror,Telugu,2019,144,UK,46,146,4,2024-06-08,TV,Good,User_146,Female,43,Pune,2024-07-13,Premium
+19,Movie_19,Action,Tamil,2006,149,UK,166,10,4,2023-11-16,Mobile,Average,User_10,Female,40,Mumbai,2024-04-28,Premium
+19,Movie_19,Action,Tamil,2006,149,UK,273,116,5,2023-04-01,TV,Poor,User_116,Female,30,Mumbai,2023-07-17,Basic
+19,Movie_19,Action,Tamil,2006,149,UK,280,125,2,2024-01-20,Mobile,Must Watch,User_125,Female,27,Pune,2023-06-17,Basic
+19,Movie_19,Action,Tamil,2006,149,UK,281,220,4,2024-12-24,Laptop,Poor,User_220,Female,39,Chennai,2020-08-24,Basic
+19,Movie_19,Action,Tamil,2006,149,UK,481,59,1,2022-05-27,Mobile,Good,User_59,Male,16,Chennai,2023-04-26,Basic
+20,Movie_20,Action,Telugu,2010,147,India,218,228,5,2022-04-25,Mobile,Good,User_228,Female,20,Mumbai,2021-11-30,Basic
+21,Movie_21,Sci-Fi,Telugu,2007,134,USA,81,168,1,2024-07-22,Mobile,Good,User_168,Female,16,Pune,2022-05-03,Free
+21,Movie_21,Sci-Fi,Telugu,2007,134,USA,263,208,5,2024-01-12,TV,Poor,User_208,Male,29,Pune,2022-05-31,Basic
+22,Movie_22,Drama,Hindi,2014,175,India,219,61,2,2022-08-26,TV,Excellent,User_61,Female,44,Delhi,2024-12-04,Premium
+23,Movie_23,Sci-Fi,Kannada,2007,94,Australia,99,150,4,2023-04-17,Laptop,Must Watch,User_150,Female,31,Pune,2022-11-09,Free
+23,Movie_23,Sci-Fi,Kannada,2007,94,Australia,376,86,3,2022-07-28,Laptop,Good,User_86,Female,15,Chennai,2023-11-13,Basic
+24,Movie_24,Drama,Kannada,2011,85,India,151,112,5,2023-12-14,Mobile,Good,User_112,Female,53,Chennai,2021-07-24,Basic
+24,Movie_24,Drama,Kannada,2011,85,India,478,166,2,2024-05-23,Mobile,Must Watch,User_166,Male,55,Kolkata,2021-06-23,Basic
+25,Movie_25,Action,Telugu,2023,108,Canada,465,107,3,2023-06-03,Laptop,Poor,User_107,Male,18,Pune,2020-09-26,Premium
+26,Movie_26,Action,Telugu,2022,171,UK,19,26,2,2024-12-22,Mobile,Average,User_26,Male,20,Delhi,2023-05-14,Free
+26,Movie_26,Action,Telugu,2022,171,UK,284,141,5,2022-02-07,Mobile,Good,User_141,Male,17,Pune,2023-06-13,Free
+26,Movie_26,Action,Telugu,2022,171,UK,333,102,4,2023-08-13,TV,Poor,User_102,Male,53,Pune,2022-04-27,Free
+27,Movie_27,Action,Hindi,2017,137,Canada,170,194,1,2023-04-08,TV,Must Watch,User_194,Male,34,Kolkata,2022-06-05,Premium
+28,Movie_28,Sci-Fi,Kannada,2001,165,Australia,457,131,1,2024-08-15,Laptop,Excellent,User_131,Male,27,Mumbai,2024-05-02,Premium
+29,Movie_29,Drama,Telugu,2021,113,USA,20,136,1,2022-09-07,TV,Excellent,User_136,Female,26,Chennai,2020-02-19,Free
+30,Movie_30,Comedy,Kannada,2011,156,USA,369,245,5,2024-12-27,Mobile,Good,User_245,Male,35,Pune,2022-11-24,Free
+31,Movie_31,Horror,Tamil,2009,157,UK,231,152,2,2023-09-13,TV,Must Watch,User_152,Female,33,Mumbai,2021-09-27,Basic
+32,Movie_32,Horror,Kannada,2012,90,USA,193,193,3,2023-07-21,TV,Poor,User_193,Female,31,Kolkata,2022-05-14,Basic
+33,Movie_33,Action,Tamil,2002,155,India,136,39,4,2023-12-12,Laptop,Must Watch,User_39,Female,24,Kolkata,2022-04-18,Basic
+34,Movie_34,Comedy,Tamil,2006,150,USA,277,213,1,2023-09-21,TV,Average,User_213,Male,27,Chennai,2022-10-27,Premium
+35,Movie_35,Comedy,Telugu,2001,154,Canada,35,176,2,2024-02-22,TV,Poor,User_176,Male,48,Mumbai,2023-12-19,Premium
+37,Movie_37,Action,Tamil,2012,166,Australia,441,39,4,2023-04-08,TV,Average,User_39,Female,24,Kolkata,2022-04-18,Basic
+38,Movie_38,Action,Telugu,2007,117,UK,155,221,2,2023-01-22,TV,Poor,User_221,Female,35,Pune,2024-06-19,Basic
+39,Movie_39,Sci-Fi,Kannada,2002,133,Canada,130,121,2,2024-05-17,TV,Poor,User_121,Female,15,Kolkata,2024-08-31,Premium
+39,Movie_39,Sci-Fi,Kannada,2002,133,Canada,134,218,4,2022-06-18,Mobile,Must Watch,User_218,Female,25,Kolkata,2020-07-05,Free
+39,Movie_39,Sci-Fi,Kannada,2002,133,Canada,307,210,1,2024-02-29,TV,Excellent,User_210,Female,54,Pune,2020-11-04,Premium
+40,Movie_40,Action,Tamil,2019,135,India,140,212,2,2022-11-21,Mobile,Must Watch,User_212,Female,50,Kolkata,2023-03-15,Premium
+40,Movie_40,Action,Tamil,2019,135,India,172,214,2,2023-12-19,Mobile,Good,User_214,Male,38,Pune,2024-09-30,Premium
+40,Movie_40,Action,Tamil,2019,135,India,357,162,4,2023-01-25,TV,Must Watch,User_162,Female,43,Pune,2024-12-28,Premium
+40,Movie_40,Action,Tamil,2019,135,India,432,137,3,2022-05-08,TV,Good,User_137,Male,35,Kolkata,2021-12-25,Free
+41,Movie_41,Sci-Fi,Tamil,2004,82,India,383,226,3,2024-09-25,TV,Must Watch,User_226,Male,29,Delhi,2023-05-05,Free
+43,Movie_43,Sci-Fi,Tamil,2016,118,UK,73,26,1,2022-02-27,Laptop,Excellent,User_26,Male,20,Delhi,2023-05-14,Free
+43,Movie_43,Sci-Fi,Tamil,2016,118,UK,119,246,5,2023-06-23,Mobile,Excellent,User_246,Male,30,Pune,2021-04-12,Basic
+43,Movie_43,Sci-Fi,Tamil,2016,118,UK,160,52,3,2022-12-24,Laptop,Must Watch,User_52,Female,17,Chennai,2023-06-04,Free
+44,Movie_44,Drama,Hindi,2020,88,Canada,360,36,1,2022-02-10,Mobile,Average,User_36,Male,19,Delhi,2024-02-16,Premium
+45,Movie_45,Action,Hindi,2007,151,UK,62,20,2,2023-07-28,TV,Average,User_20,Male,21,Mumbai,2022-09-16,Premium
+45,Movie_45,Action,Hindi,2007,151,UK,150,36,1,2023-12-19,Laptop,Poor,User_36,Male,19,Delhi,2024-02-16,Premium
+45,Movie_45,Action,Hindi,2007,151,UK,230,190,5,2023-05-30,TV,Good,User_190,Male,30,Pune,2021-07-27,Premium
+45,Movie_45,Action,Hindi,2007,151,UK,318,154,5,2022-12-07,TV,Average,User_154,Female,48,Pune,2022-03-16,Premium
+45,Movie_45,Action,Hindi,2007,151,UK,329,248,4,2024-02-08,Mobile,Excellent,User_248,Female,19,Chennai,2020-09-01,Premium
+46,Movie_46,Drama,Kannada,2014,108,Canada,50,83,3,2023-09-14,Laptop,Excellent,User_83,Female,43,Delhi,2021-10-31,Basic
+47,Movie_47,Drama,English,2016,158,India,26,173,3,2024-11-22,TV,Poor,User_173,Male,15,Mumbai,2020-02-08,Premium
+47,Movie_47,Drama,English,2016,158,India,104,198,4,2024-05-13,Mobile,Poor,User_198,Male,16,Mumbai,2021-03-14,Basic
+47,Movie_47,Drama,English,2016,158,India,128,243,1,2023-05-07,Mobile,Excellent,User_243,Female,25,Pune,2022-04-28,Free
+47,Movie_47,Drama,English,2016,158,India,200,164,2,2022-09-16,Laptop,Poor,User_164,Male,43,Pune,2021-05-15,Free
+47,Movie_47,Drama,English,2016,158,India,480,75,5,2024-08-28,Mobile,Excellent,User_75,Male,32,Kolkata,2021-09-19,Premium
+48,Movie_48,Comedy,Tamil,2021,81,Australia,18,163,1,2023-07-03,Mobile,Average,User_163,Female,25,Chennai,2020-11-11,Free
+48,Movie_48,Comedy,Tamil,2021,81,Australia,37,248,5,2023-09-23,TV,Poor,User_248,Female,19,Chennai,2020-09-01,Premium
+50,Movie_50,Sci-Fi,English,2023,83,UK,301,152,1,2023-10-28,Mobile,Excellent,User_152,Female,33,Mumbai,2021-09-27,Basic
+51,Movie_51,Comedy,Kannada,2000,169,USA,404,151,2,2023-06-10,TV,Good,User_151,Male,40,Mumbai,2023-06-30,Basic
+52,Movie_52,Drama,Tamil,2021,111,India,53,52,3,2024-11-21,Mobile,Must Watch,User_52,Female,17,Chennai,2023-06-04,Free
+52,Movie_52,Drama,Tamil,2021,111,India,297,7,4,2022-11-01,TV,Average,User_7,Male,17,Delhi,2020-02-18,Basic
+52,Movie_52,Drama,Tamil,2021,111,India,368,108,5,2022-04-25,Laptop,Good,User_108,Male,39,Delhi,2020-04-12,Basic
+53,Movie_53,Horror,Tamil,2006,115,India,121,125,3,2023-08-02,Laptop,Poor,User_125,Female,27,Pune,2023-06-17,Basic
+53,Movie_53,Horror,Tamil,2006,115,India,396,94,3,2022-05-19,Laptop,Good,User_94,Male,22,Mumbai,2024-03-21,Basic
+54,Movie_54,Comedy,Kannada,2010,85,Australia,57,8,1,2024-02-10,Laptop,Good,User_8,Male,27,Kolkata,2020-11-07,Free
+56,Movie_56,Sci-Fi,Tamil,2004,138,Canada,8,195,5,2024-02-10,Mobile,Excellent,User_195,Female,41,Kolkata,2023-11-27,Premium
+56,Movie_56,Sci-Fi,Tamil,2004,138,Canada,264,143,4,2022-05-25,Mobile,Good,User_143,Male,38,Delhi,2021-03-04,Basic
+56,Movie_56,Sci-Fi,Tamil,2004,138,Canada,429,97,3,2022-11-22,Mobile,Must Watch,User_97,Male,50,Mumbai,2020-05-20,Premium
+57,Movie_57,Sci-Fi,Telugu,2017,166,USA,29,207,2,2022-04-10,Mobile,Poor,User_207,Female,49,Kolkata,2023-04-20,Premium
+57,Movie_57,Sci-Fi,Telugu,2017,166,USA,162,70,2,2024-11-07,Laptop,Poor,User_70,Female,22,Chennai,2024-05-22,Free
+57,Movie_57,Sci-Fi,Telugu,2017,166,USA,350,22,4,2024-04-24,TV,Poor,User_22,Female,49,Pune,2022-05-08,Basic
+57,Movie_57,Sci-Fi,Telugu,2017,166,USA,382,26,5,2024-10-25,Laptop,Poor,User_26,Male,20,Delhi,2023-05-14,Free
+58,Movie_58,Drama,Hindi,2019,129,Canada,258,165,1,2024-12-28,TV,Good,User_165,Female,44,Kolkata,2023-07-24,Basic
+59,Movie_59,Horror,Kannada,2008,167,Canada,182,72,5,2023-09-21,TV,Good,User_72,Female,57,Chennai,2021-02-09,Free
+59,Movie_59,Horror,Kannada,2008,167,Canada,221,15,1,2024-02-04,TV,Excellent,User_15,Female,32,Pune,2020-04-04,Free
+60,Movie_60,Comedy,Tamil,2011,104,Canada,110,89,1,2023-07-07,Mobile,Average,User_89,Male,32,Kolkata,2023-10-11,Free
+60,Movie_60,Comedy,Tamil,2011,104,Canada,422,179,2,2024-05-28,TV,Must Watch,User_179,Male,45,Delhi,2023-07-11,Premium
+61,Movie_61,Action,English,2004,161,UK,185,32,1,2022-03-08,Mobile,Poor,User_32,Female,49,Kolkata,2020-11-14,Free
+62,Movie_62,Horror,Telugu,2021,103,UK,490,250,5,2023-02-01,Mobile,Excellent,User_250,Female,48,Pune,2022-12-24,Premium
+63,Movie_63,Horror,Telugu,2010,147,UK,154,41,2,2023-04-09,Mobile,Average,User_41,Female,39,Chennai,2024-06-15,Premium
+63,Movie_63,Horror,Telugu,2010,147,UK,389,86,1,2024-09-20,TV,Excellent,User_86,Female,15,Chennai,2023-11-13,Basic
+64,Movie_64,Comedy,English,2000,134,India,24,51,5,2022-03-18,Mobile,Excellent,User_51,Male,58,Mumbai,2024-04-21,Basic
+64,Movie_64,Comedy,English,2000,134,India,64,137,1,2022-04-14,Laptop,Excellent,User_137,Male,35,Kolkata,2021-12-25,Free
+65,Movie_65,Drama,Hindi,2008,114,UK,84,171,2,2024-09-24,Mobile,Good,User_171,Female,44,Chennai,2024-01-20,Premium
+65,Movie_65,Drama,Hindi,2008,114,UK,361,175,3,2023-12-19,TV,Average,User_175,Male,59,Pune,2020-08-13,Premium
+65,Movie_65,Drama,Hindi,2008,114,UK,454,164,4,2024-05-16,Mobile,Average,User_164,Male,43,Pune,2021-05-15,Free
+66,Movie_66,Drama,Hindi,2008,139,India,311,165,3,2024-05-21,Laptop,Must Watch,User_165,Female,44,Kolkata,2023-07-24,Basic
+66,Movie_66,Drama,Hindi,2008,139,India,338,128,5,2023-10-26,Laptop,Average,User_128,Male,18,Delhi,2023-06-23,Premium
+66,Movie_66,Drama,Hindi,2008,139,India,340,100,3,2024-10-09,TV,Must Watch,User_100,Male,29,Mumbai,2020-09-05,Premium
+66,Movie_66,Drama,Hindi,2008,139,India,367,55,1,2023-06-23,TV,Poor,User_55,Female,30,Delhi,2023-05-15,Free
+67,Movie_67,Sci-Fi,Hindi,2003,133,Canada,476,124,1,2024-06-20,TV,Poor,User_124,Male,25,Chennai,2023-01-12,Premium
+68,Movie_68,Horror,English,2024,128,UK,169,170,4,2024-01-14,Laptop,Good,User_170,Male,58,Kolkata,2023-04-07,Basic
+68,Movie_68,Horror,English,2024,128,UK,233,248,3,2022-08-14,Mobile,Poor,User_248,Female,19,Chennai,2020-09-01,Premium
+68,Movie_68,Horror,English,2024,128,UK,272,133,5,2024-08-03,Mobile,Good,User_133,Female,50,Chennai,2023-10-18,Premium
+69,Movie_69,Drama,Kannada,2009,98,Australia,247,130,1,2022-10-03,Laptop,Must Watch,User_130,Male,30,Mumbai,2021-04-20,Free
+69,Movie_69,Drama,Kannada,2009,98,Australia,325,21,3,2023-07-02,Laptop,Excellent,User_21,Female,49,Delhi,2020-08-18,Basic
+70,Movie_70,Horror,Kannada,2001,120,Australia,195,159,5,2022-01-20,Mobile,Good,User_159,Female,24,Kolkata,2021-12-22,Free
+71,Movie_71,Sci-Fi,Kannada,2011,128,India,224,55,5,2023-12-20,Mobile,Poor,User_55,Female,30,Delhi,2023-05-15,Free
+71,Movie_71,Sci-Fi,Kannada,2011,128,India,354,45,1,2024-11-14,Mobile,Good,User_45,Male,54,Pune,2022-03-09,Basic
+72,Movie_72,Comedy,Hindi,2002,88,Canada,92,129,2,2022-11-29,Laptop,Excellent,User_129,Female,32,Mumbai,2021-07-19,Basic
+72,Movie_72,Comedy,Hindi,2002,88,Canada,111,113,3,2022-05-12,TV,Average,User_113,Female,55,Chennai,2023-08-07,Free
+72,Movie_72,Comedy,Hindi,2002,88,Canada,232,59,4,2023-01-30,Mobile,Average,User_59,Male,16,Chennai,2023-04-26,Basic
+72,Movie_72,Comedy,Hindi,2002,88,Canada,467,56,2,2024-07-04,Mobile,Average,User_56,Male,15,Chennai,2021-08-03,Premium
+73,Movie_73,Comedy,Telugu,2021,157,Australia,304,52,1,2022-01-26,Mobile,Excellent,User_52,Female,17,Chennai,2023-06-04,Free
+74,Movie_74,Action,Tamil,2013,169,UK,349,47,4,2023-06-05,Mobile,Average,User_47,Female,21,Kolkata,2023-08-01,Basic
+74,Movie_74,Action,Tamil,2013,169,UK,468,137,2,2023-12-14,Laptop,Poor,User_137,Male,35,Kolkata,2021-12-25,Free
+74,Movie_74,Action,Tamil,2013,169,UK,479,45,2,2022-11-03,Laptop,Excellent,User_45,Male,54,Pune,2022-03-09,Basic
+74,Movie_74,Action,Tamil,2013,169,UK,487,160,3,2022-09-08,Laptop,Average,User_160,Female,33,Mumbai,2023-09-30,Premium
+75,Movie_75,Horror,Telugu,2002,125,UK,25,244,5,2023-06-20,Mobile,Average,User_244,Male,27,Kolkata,2022-06-26,Premium
+75,Movie_75,Horror,Telugu,2002,125,UK,348,109,1,2024-06-04,TV,Excellent,User_109,Male,53,Pune,2020-05-03,Premium
+75,Movie_75,Horror,Telugu,2002,125,UK,363,85,4,2024-02-16,TV,Must Watch,User_85,Male,54,Delhi,2020-06-12,Free
+76,Movie_76,Action,Hindi,2016,101,USA,246,56,3,2023-11-04,TV,Excellent,User_56,Male,15,Chennai,2021-08-03,Premium
+77,Movie_77,Drama,Telugu,2001,115,Australia,433,103,2,2024-02-06,TV,Average,User_103,Female,16,Kolkata,2024-07-21,Free
+78,Movie_78,Drama,Kannada,2011,91,USA,196,21,3,2023-02-24,TV,Average,User_21,Female,49,Delhi,2020-08-18,Basic
+79,Movie_79,Drama,Hindi,2018,128,UK,415,197,3,2024-10-07,Laptop,Excellent,User_197,Female,24,Delhi,2024-03-03,Free
+80,Movie_80,Comedy,Hindi,2010,89,Australia,3,37,3,2022-05-05,Mobile,Must Watch,User_37,Male,47,Mumbai,2023-08-25,Basic
+80,Movie_80,Comedy,Hindi,2010,89,Australia,192,210,2,2023-05-01,TV,Must Watch,User_210,Female,54,Pune,2020-11-04,Premium
+80,Movie_80,Comedy,Hindi,2010,89,Australia,394,69,2,2024-02-18,Mobile,Average,User_69,Male,51,Delhi,2023-03-09,Premium
+81,Movie_81,Action,Kannada,2008,150,UK,214,204,1,2023-05-15,TV,Good,User_204,Female,53,Chennai,2023-01-12,Basic
+81,Movie_81,Action,Kannada,2008,150,UK,313,199,2,2022-12-06,Mobile,Excellent,User_199,Male,29,Chennai,2024-12-13,Free
+81,Movie_81,Action,Kannada,2008,150,UK,384,99,1,2024-02-12,Laptop,Excellent,User_99,Male,33,Chennai,2021-09-10,Free
+82,Movie_82,Drama,English,2020,106,Australia,259,182,1,2022-05-29,Laptop,Average,User_182,Male,26,Pune,2023-08-15,Free
+82,Movie_82,Drama,English,2020,106,Australia,299,90,4,2024-04-09,Laptop,Excellent,User_90,Male,31,Mumbai,2022-10-22,Premium
+83,Movie_83,Drama,Telugu,2007,120,Canada,21,166,4,2023-07-24,Mobile,Must Watch,User_166,Male,55,Kolkata,2021-06-23,Basic
+84,Movie_84,Comedy,Telugu,2010,114,USA,153,122,2,2023-07-07,TV,Poor,User_122,Female,20,Kolkata,2023-07-13,Free
+84,Movie_84,Comedy,Telugu,2010,114,USA,332,30,2,2022-11-28,TV,Average,User_30,Male,45,Chennai,2020-01-12,Premium
+85,Movie_85,Comedy,Hindi,2023,140,India,96,153,4,2023-05-01,TV,Must Watch,User_153,Female,54,Chennai,2020-09-06,Basic
+85,Movie_85,Comedy,Hindi,2023,140,India,115,162,4,2024-08-30,Mobile,Good,User_162,Female,43,Pune,2024-12-28,Premium
+85,Movie_85,Comedy,Hindi,2023,140,India,334,242,5,2023-01-12,TV,Must Watch,User_242,Female,57,Kolkata,2023-10-29,Premium
+86,Movie_86,Horror,Tamil,2012,107,UK,131,112,1,2023-08-09,Laptop,Excellent,User_112,Female,53,Chennai,2021-07-24,Basic
+88,Movie_88,Sci-Fi,Kannada,2006,141,India,213,139,3,2024-08-14,Laptop,Average,User_139,Male,41,Kolkata,2023-01-22,Basic
+88,Movie_88,Sci-Fi,Kannada,2006,141,India,245,55,5,2023-01-28,TV,Excellent,User_55,Female,30,Delhi,2023-05-15,Free
+89,Movie_89,Action,Kannada,2007,158,USA,327,183,1,2023-05-06,Laptop,Good,User_183,Female,26,Pune,2021-07-01,Basic
+90,Movie_90,Sci-Fi,Telugu,2007,127,India,475,97,3,2024-07-13,Laptop,Must Watch,User_97,Male,50,Mumbai,2020-05-20,Premium
+91,Movie_91,Sci-Fi,Telugu,2021,174,Canada,392,54,3,2022-03-05,Laptop,Average,User_54,Female,28,Pune,2020-02-05,Free
+91,Movie_91,Sci-Fi,Telugu,2021,174,Canada,482,191,1,2022-08-19,Mobile,Excellent,User_191,Male,29,Pune,2024-05-15,Premium
+92,Movie_92,Action,Tamil,2013,171,Canada,13,226,5,2022-10-16,Laptop,Poor,User_226,Male,29,Delhi,2023-05-05,Free
+92,Movie_92,Action,Tamil,2013,171,Canada,141,237,4,2023-04-20,Mobile,Excellent,User_237,Male,53,Mumbai,2020-12-29,Free
+94,Movie_94,Horror,Hindi,2017,130,UK,30,209,3,2023-04-29,Mobile,Average,User_209,Male,38,Delhi,2021-06-16,Free
+94,Movie_94,Horror,Hindi,2017,130,UK,40,240,5,2022-07-22,Laptop,Excellent,User_240,Male,17,Mumbai,2021-11-04,Basic
+95,Movie_95,Sci-Fi,Hindi,2021,146,UK,204,222,4,2024-10-15,Laptop,Poor,User_222,Female,44,Chennai,2021-11-30,Basic
+96,Movie_96,Action,English,2024,134,Canada,27,34,2,2022-10-31,Laptop,Excellent,User_34,Male,27,Pune,2021-06-23,Basic
+96,Movie_96,Action,English,2024,134,Canada,137,54,5,2022-03-27,Mobile,Average,User_54,Female,28,Pune,2020-02-05,Free
+98,Movie_98,Comedy,Telugu,2004,107,USA,268,40,2,2024-06-30,TV,Good,User_40,Male,29,Delhi,2020-05-21,Free
+98,Movie_98,Comedy,Telugu,2004,107,USA,484,113,1,2024-10-23,TV,Poor,User_113,Female,55,Chennai,2023-08-07,Free
+99,Movie_99,Action,Hindi,2016,111,India,319,130,4,2022-04-15,TV,Must Watch,User_130,Male,30,Mumbai,2021-04-20,Free
+100,Movie_100,Drama,English,2012,116,Australia,199,11,2,2022-04-12,Laptop,Poor,User_11,Female,45,Chennai,2021-03-22,Premium
+100,Movie_100,Drama,English,2012,116,Australia,372,235,3,2023-12-01,Mobile,Excellent,User_235,Female,55,Mumbai,2023-02-11,Basic
+101,Movie_101,Horror,Hindi,2000,177,India,109,120,3,2023-01-04,Mobile,Excellent,User_120,Female,33,Delhi,2024-11-01,Free
+101,Movie_101,Horror,Hindi,2000,177,India,239,42,2,2022-01-05,Mobile,Good,User_42,Male,56,Mumbai,2022-07-20,Basic
+101,Movie_101,Horror,Hindi,2000,177,India,437,164,1,2022-09-22,Mobile,Poor,User_164,Male,43,Pune,2021-05-15,Free
+102,Movie_102,Comedy,Tamil,2006,87,Canada,1,47,4,2023-03-31,Laptop,Poor,User_47,Female,21,Kolkata,2023-08-01,Basic
+102,Movie_102,Comedy,Tamil,2006,87,Canada,495,63,3,2023-01-17,Mobile,Poor,User_63,Male,23,Kolkata,2023-05-09,Basic
+103,Movie_103,Action,Tamil,2014,80,UK,253,41,3,2024-09-06,TV,Average,User_41,Female,39,Chennai,2024-06-15,Premium
+103,Movie_103,Action,Tamil,2014,80,UK,448,177,4,2024-08-18,TV,Good,User_177,Male,33,Mumbai,2022-07-14,Basic
+104,Movie_104,Sci-Fi,Kannada,2022,116,Australia,209,19,3,2022-12-02,Laptop,Average,User_19,Female,57,Chennai,2022-07-03,Premium
+104,Movie_104,Sci-Fi,Kannada,2022,116,Australia,317,31,3,2022-05-26,Laptop,Excellent,User_31,Female,51,Kolkata,2020-04-05,Basic
+106,Movie_106,Sci-Fi,Hindi,2004,106,India,103,115,3,2023-03-22,Laptop,Good,User_115,Male,17,Chennai,2020-08-18,Basic
+106,Movie_106,Sci-Fi,Hindi,2004,106,India,222,34,5,2022-11-24,Laptop,Must Watch,User_34,Male,27,Pune,2021-06-23,Basic
+106,Movie_106,Sci-Fi,Hindi,2004,106,India,243,149,1,2024-08-18,Laptop,Must Watch,User_149,Male,43,Pune,2023-06-24,Premium
+107,Movie_107,Action,Tamil,2024,163,Canada,229,109,1,2023-09-11,TV,Excellent,User_109,Male,53,Pune,2020-05-03,Premium
+107,Movie_107,Action,Tamil,2024,163,Canada,470,205,1,2024-08-22,Mobile,Good,User_205,Male,27,Delhi,2024-09-19,Premium
+108,Movie_108,Sci-Fi,English,2004,128,USA,287,123,4,2024-07-25,Laptop,Poor,User_123,Female,26,Pune,2021-10-16,Premium
+109,Movie_109,Sci-Fi,Telugu,2015,130,India,288,81,3,2024-08-24,Laptop,Average,User_81,Female,57,Mumbai,2024-12-01,Premium
+109,Movie_109,Sci-Fi,Telugu,2015,130,India,314,16,3,2024-12-15,Mobile,Good,User_16,Female,44,Delhi,2020-11-15,Premium
+109,Movie_109,Sci-Fi,Telugu,2015,130,India,362,191,1,2022-04-05,TV,Good,User_191,Male,29,Pune,2024-05-15,Premium
+110,Movie_110,Drama,Tamil,2006,171,Canada,44,98,2,2024-09-08,Mobile,Good,User_98,Female,57,Chennai,2021-08-08,Basic
+110,Movie_110,Drama,Tamil,2006,171,Canada,61,135,4,2024-07-18,Laptop,Good,User_135,Female,57,Delhi,2022-01-13,Free
+110,Movie_110,Drama,Tamil,2006,171,Canada,91,169,5,2023-02-02,Laptop,Poor,User_169,Female,40,Chennai,2024-02-23,Free
+110,Movie_110,Drama,Tamil,2006,171,Canada,278,34,3,2023-07-18,Mobile,Excellent,User_34,Male,27,Pune,2021-06-23,Basic
+110,Movie_110,Drama,Tamil,2006,171,Canada,300,211,3,2023-04-02,TV,Average,User_211,Male,34,Delhi,2020-07-11,Basic
+110,Movie_110,Drama,Tamil,2006,171,Canada,464,189,3,2024-09-23,TV,Poor,User_189,Female,41,Pune,2024-07-20,Basic
+111,Movie_111,Action,Hindi,2012,80,Australia,32,58,4,2022-11-24,Laptop,Excellent,User_58,Female,30,Mumbai,2021-11-06,Free
+112,Movie_112,Comedy,Kannada,2013,122,Canada,76,199,1,2023-05-19,TV,Poor,User_199,Male,29,Chennai,2024-12-13,Free
+112,Movie_112,Comedy,Kannada,2013,122,Canada,101,225,2,2023-11-03,TV,Average,User_225,Female,41,Mumbai,2020-02-29,Basic
+112,Movie_112,Comedy,Kannada,2013,122,Canada,444,26,3,2024-03-06,TV,Average,User_26,Male,20,Delhi,2023-05-14,Free
+113,Movie_113,Drama,English,2021,117,Canada,82,218,5,2024-05-31,Laptop,Poor,User_218,Female,25,Kolkata,2020-07-05,Free
+113,Movie_113,Drama,English,2021,117,Canada,302,210,4,2022-09-14,TV,Good,User_210,Female,54,Pune,2020-11-04,Premium
+113,Movie_113,Drama,English,2021,117,Canada,380,49,4,2023-07-16,Laptop,Average,User_49,Male,30,Delhi,2021-06-22,Basic
+113,Movie_113,Drama,English,2021,117,Canada,387,43,5,2024-08-08,Mobile,Poor,User_43,Female,45,Kolkata,2021-05-16,Premium
+114,Movie_114,Drama,Telugu,2020,172,India,85,118,4,2023-03-11,Laptop,Good,User_118,Female,25,Chennai,2022-01-05,Basic
+114,Movie_114,Drama,Telugu,2020,172,India,328,246,1,2024-02-11,Mobile,Excellent,User_246,Male,30,Pune,2021-04-12,Basic
+115,Movie_115,Action,Kannada,2024,132,India,86,39,2,2024-02-08,Laptop,Must Watch,User_39,Female,24,Kolkata,2022-04-18,Basic
+115,Movie_115,Action,Kannada,2024,132,India,336,144,1,2022-03-08,Mobile,Poor,User_144,Male,26,Chennai,2023-11-12,Free
+116,Movie_116,Drama,English,2002,175,USA,238,23,4,2023-05-14,Mobile,Must Watch,User_23,Male,37,Mumbai,2021-12-05,Basic
+117,Movie_117,Horror,Tamil,2011,111,Australia,31,190,3,2022-08-15,Laptop,Good,User_190,Male,30,Pune,2021-07-27,Premium
+117,Movie_117,Horror,Tamil,2011,111,Australia,105,112,5,2024-09-26,Mobile,Average,User_112,Female,53,Chennai,2021-07-24,Basic
+117,Movie_117,Horror,Tamil,2011,111,Australia,235,234,5,2022-04-12,TV,Average,User_234,Female,44,Mumbai,2023-05-07,Premium
+117,Movie_117,Horror,Tamil,2011,111,Australia,469,130,2,2022-08-05,Laptop,Average,User_130,Male,30,Mumbai,2021-04-20,Free
+118,Movie_118,Action,Hindi,2008,104,India,168,77,1,2023-08-11,TV,Average,User_77,Female,59,Delhi,2021-04-09,Free
+118,Movie_118,Action,Hindi,2008,104,India,471,174,4,2022-08-16,Laptop,Excellent,User_174,Male,26,Pune,2021-08-23,Premium
+119,Movie_119,Sci-Fi,Hindi,2013,100,Canada,47,235,1,2024-01-05,TV,Good,User_235,Female,55,Mumbai,2023-02-11,Basic
+119,Movie_119,Sci-Fi,Hindi,2013,100,Canada,296,83,4,2024-01-09,Mobile,Poor,User_83,Female,43,Delhi,2021-10-31,Basic
+119,Movie_119,Sci-Fi,Hindi,2013,100,Canada,402,9,4,2022-04-12,Mobile,Must Watch,User_9,Female,34,Pune,2021-11-23,Basic
+120,Movie_120,Action,Tamil,2020,115,India,344,152,2,2023-04-14,TV,Excellent,User_152,Female,33,Mumbai,2021-09-27,Basic
+120,Movie_120,Action,Tamil,2020,115,India,405,84,1,2022-04-07,TV,Must Watch,User_84,Male,15,Kolkata,2024-02-03,Free
+121,Movie_121,Comedy,Tamil,2023,120,Australia,237,191,5,2024-04-11,Laptop,Excellent,User_191,Male,29,Pune,2024-05-15,Premium
+121,Movie_121,Comedy,Tamil,2023,120,Australia,249,157,1,2024-06-01,Laptop,Poor,User_157,Female,20,Delhi,2023-01-11,Basic
+122,Movie_122,Action,English,2010,118,UK,167,203,1,2023-09-19,TV,Good,User_203,Female,25,Mumbai,2024-09-13,Free
+122,Movie_122,Action,English,2010,118,UK,183,225,3,2024-10-17,Mobile,Excellent,User_225,Female,41,Mumbai,2020-02-29,Basic
+123,Movie_123,Drama,Hindi,2023,144,Australia,114,238,4,2023-12-13,Laptop,Poor,User_238,Male,32,Chennai,2022-03-31,Premium
+125,Movie_125,Action,English,2004,96,India,118,79,1,2023-03-09,Laptop,Excellent,User_79,Female,43,Mumbai,2022-07-21,Basic
+125,Movie_125,Action,English,2004,96,India,424,183,2,2024-07-06,Mobile,Excellent,User_183,Female,26,Pune,2021-07-01,Basic
+126,Movie_126,Horror,Kannada,2006,163,Canada,14,18,3,2023-02-22,TV,Excellent,User_18,Male,35,Chennai,2024-11-05,Premium
+126,Movie_126,Horror,Kannada,2006,163,Canada,71,130,2,2024-03-11,Mobile,Excellent,User_130,Male,30,Mumbai,2021-04-20,Free
+128,Movie_128,Sci-Fi,Hindi,2008,82,UK,95,90,4,2024-05-29,Laptop,Excellent,User_90,Male,31,Mumbai,2022-10-22,Premium
+128,Movie_128,Sci-Fi,Hindi,2008,82,UK,265,17,3,2024-08-20,TV,Poor,User_17,Male,42,Mumbai,2020-12-21,Free
+128,Movie_128,Sci-Fi,Hindi,2008,82,UK,286,67,1,2024-07-12,Laptop,Good,User_67,Male,16,Chennai,2024-02-25,Premium
+128,Movie_128,Sci-Fi,Hindi,2008,82,UK,321,155,1,2022-04-10,Mobile,Must Watch,User_155,Female,52,Pune,2024-09-10,Basic
+128,Movie_128,Sci-Fi,Hindi,2008,82,UK,330,227,3,2022-06-01,TV,Average,User_227,Male,36,Chennai,2021-03-16,Premium
+129,Movie_129,Comedy,English,2018,158,USA,12,159,2,2024-10-22,TV,Poor,User_159,Female,24,Kolkata,2021-12-22,Free
+129,Movie_129,Comedy,English,2018,158,USA,189,49,5,2023-02-02,Mobile,Good,User_49,Male,30,Delhi,2021-06-22,Basic
+129,Movie_129,Comedy,English,2018,158,USA,223,80,1,2024-08-23,Mobile,Must Watch,User_80,Female,22,Chennai,2024-07-07,Premium
+130,Movie_130,Horror,Hindi,2015,91,Australia,38,42,5,2022-04-05,Mobile,Excellent,User_42,Male,56,Mumbai,2022-07-20,Basic
+130,Movie_130,Horror,Hindi,2015,91,Australia,254,220,4,2023-06-03,Mobile,Must Watch,User_220,Female,39,Chennai,2020-08-24,Basic
+130,Movie_130,Horror,Hindi,2015,91,Australia,413,208,2,2022-09-14,TV,Excellent,User_208,Male,29,Pune,2022-05-31,Basic
+130,Movie_130,Horror,Hindi,2015,91,Australia,477,143,3,2022-04-03,Laptop,Poor,User_143,Male,38,Delhi,2021-03-04,Basic
+130,Movie_130,Horror,Hindi,2015,91,Australia,489,71,2,2022-12-08,Laptop,Poor,User_71,Female,55,Kolkata,2022-03-25,Premium
+131,Movie_131,Comedy,Hindi,2001,125,Australia,186,191,2,2023-01-27,Mobile,Average,User_191,Male,29,Pune,2024-05-15,Premium
+131,Movie_131,Comedy,Hindi,2001,125,Australia,217,75,3,2024-11-22,Laptop,Good,User_75,Male,32,Kolkata,2021-09-19,Premium
+131,Movie_131,Comedy,Hindi,2001,125,Australia,414,220,1,2023-03-02,Laptop,Excellent,User_220,Female,39,Chennai,2020-08-24,Basic
+132,Movie_132,Drama,English,2012,128,UK,450,115,4,2024-05-09,Laptop,Average,User_115,Male,17,Chennai,2020-08-18,Basic
+133,Movie_133,Comedy,Kannada,2018,160,UK,102,113,3,2023-04-20,TV,Must Watch,User_113,Female,55,Chennai,2023-08-07,Free
+133,Movie_133,Comedy,Kannada,2018,160,UK,175,2,3,2023-08-21,TV,Excellent,User_2,Male,23,Pune,2021-02-26,Free
+133,Movie_133,Comedy,Kannada,2018,160,UK,322,128,2,2024-04-22,Mobile,Average,User_128,Male,18,Delhi,2023-06-23,Premium
+133,Movie_133,Comedy,Kannada,2018,160,UK,446,194,2,2024-10-08,Mobile,Good,User_194,Male,34,Kolkata,2022-06-05,Premium
+134,Movie_134,Horror,Telugu,2024,108,India,142,149,5,2023-01-21,Mobile,Good,User_149,Male,43,Pune,2023-06-24,Premium
+134,Movie_134,Horror,Telugu,2024,108,India,174,44,5,2022-10-22,Mobile,Must Watch,User_44,Female,19,Delhi,2021-08-07,Free
+134,Movie_134,Horror,Telugu,2024,108,India,395,5,3,2024-09-25,Mobile,Average,User_5,Male,57,Kolkata,2020-12-23,Basic
+134,Movie_134,Horror,Telugu,2024,108,India,443,101,5,2023-04-21,Mobile,Average,User_101,Male,57,Pune,2024-09-14,Premium
+135,Movie_135,Horror,Tamil,2024,178,Australia,347,203,3,2024-11-17,Mobile,Poor,User_203,Female,25,Mumbai,2024-09-13,Free
+135,Movie_135,Horror,Tamil,2024,178,Australia,498,152,2,2024-12-07,TV,Good,User_152,Female,33,Mumbai,2021-09-27,Basic
+136,Movie_136,Comedy,Telugu,2018,143,India,381,159,4,2023-07-14,Laptop,Good,User_159,Female,24,Kolkata,2021-12-22,Free
+136,Movie_136,Comedy,Telugu,2018,143,India,401,14,3,2024-12-18,TV,Average,User_14,Male,54,Mumbai,2023-08-02,Free
+137,Movie_137,Action,Kannada,2012,176,Australia,269,244,2,2022-07-28,Mobile,Good,User_244,Male,27,Kolkata,2022-06-26,Premium
+137,Movie_137,Action,Kannada,2012,176,Australia,373,241,1,2023-08-30,Mobile,Average,User_241,Male,48,Mumbai,2023-08-26,Basic
+138,Movie_138,Horror,Telugu,2011,126,Canada,434,226,1,2023-06-03,Laptop,Poor,User_226,Male,29,Delhi,2023-05-05,Free
+139,Movie_139,Sci-Fi,Telugu,2008,96,Australia,295,1,4,2023-08-04,TV,Excellent,User_1,Female,53,Mumbai,2021-09-01,Basic
+139,Movie_139,Sci-Fi,Telugu,2008,96,Australia,393,91,1,2023-06-07,Mobile,Poor,User_91,Female,55,Mumbai,2023-02-28,Free
+139,Movie_139,Sci-Fi,Telugu,2008,96,Australia,421,112,4,2023-07-12,Mobile,Poor,User_112,Female,53,Chennai,2021-07-24,Basic
+139,Movie_139,Sci-Fi,Telugu,2008,96,Australia,497,52,5,2023-12-12,Mobile,Must Watch,User_52,Female,17,Chennai,2023-06-04,Free
+140,Movie_140,Drama,Kannada,2015,161,Canada,184,113,3,2022-02-08,TV,Average,User_113,Female,55,Chennai,2023-08-07,Free
+140,Movie_140,Drama,Kannada,2015,161,Canada,191,149,2,2022-03-05,TV,Poor,User_149,Male,43,Pune,2023-06-24,Premium
+140,Movie_140,Drama,Kannada,2015,161,Canada,342,168,2,2023-01-13,TV,Average,User_168,Female,16,Pune,2022-05-03,Free
+141,Movie_141,Comedy,Hindi,2013,148,USA,36,117,3,2022-05-10,Laptop,Must Watch,User_117,Female,27,Pune,2024-09-11,Premium
+141,Movie_141,Comedy,Hindi,2013,148,USA,244,215,5,2022-06-23,Mobile,Poor,User_215,Female,32,Delhi,2020-12-09,Free
+142,Movie_142,Action,Tamil,2019,96,India,51,109,4,2023-06-25,Mobile,Must Watch,User_109,Male,53,Pune,2020-05-03,Premium
+142,Movie_142,Action,Tamil,2019,96,India,93,162,1,2023-01-14,TV,Average,User_162,Female,43,Pune,2024-12-28,Premium
+142,Movie_142,Action,Tamil,2019,96,India,411,142,4,2022-07-24,Mobile,Must Watch,User_142,Female,42,Mumbai,2022-02-26,Free
+143,Movie_143,Comedy,Telugu,2015,132,Australia,445,62,5,2022-01-14,Laptop,Excellent,User_62,Male,49,Chennai,2020-11-04,Free
+144,Movie_144,Comedy,Hindi,2011,115,India,72,187,5,2022-02-16,Mobile,Must Watch,User_187,Female,53,Kolkata,2022-09-22,Basic
+144,Movie_144,Comedy,Hindi,2011,115,India,377,30,5,2023-03-23,Laptop,Poor,User_30,Male,45,Chennai,2020-01-12,Premium
+144,Movie_144,Comedy,Hindi,2011,115,India,428,51,5,2024-06-18,Mobile,Average,User_51,Male,58,Mumbai,2024-04-21,Basic
+145,Movie_145,Sci-Fi,English,2002,177,USA,161,221,4,2022-03-01,TV,Must Watch,User_221,Female,35,Pune,2024-06-19,Basic
+146,Movie_146,Horror,Kannada,2012,100,India,390,165,4,2024-01-22,TV,Good,User_165,Female,44,Kolkata,2023-07-24,Basic
+147,Movie_147,Action,Tamil,2023,129,Australia,112,202,4,2022-07-28,Laptop,Excellent,User_202,Female,21,Delhi,2022-04-15,Premium
+147,Movie_147,Action,Tamil,2023,129,Australia,364,167,2,2023-11-27,Laptop,Excellent,User_167,Male,38,Mumbai,2022-04-10,Basic
+147,Movie_147,Action,Tamil,2023,129,Australia,492,90,5,2022-01-10,TV,Must Watch,User_90,Male,31,Mumbai,2022-10-22,Premium
+147,Movie_147,Action,Tamil,2023,129,Australia,494,150,3,2023-01-29,Mobile,Average,User_150,Female,31,Pune,2022-11-09,Free
+148,Movie_148,Horror,Tamil,2001,108,USA,34,235,1,2024-07-30,Laptop,Poor,User_235,Female,55,Mumbai,2023-02-11,Basic
+148,Movie_148,Horror,Tamil,2001,108,USA,88,178,5,2024-09-24,TV,Excellent,User_178,Male,26,Kolkata,2022-05-05,Basic
+148,Movie_148,Horror,Tamil,2001,108,USA,113,33,2,2022-05-19,TV,Excellent,User_33,Female,36,Kolkata,2021-03-04,Basic
+149,Movie_149,Action,English,2001,115,USA,117,245,1,2023-06-20,Laptop,Average,User_245,Male,35,Pune,2022-11-24,Free
+149,Movie_149,Action,English,2001,115,USA,181,76,5,2024-12-25,Laptop,Poor,User_76,Female,35,Delhi,2022-12-10,Free
+149,Movie_149,Action,English,2001,115,USA,460,53,4,2022-12-05,Mobile,Poor,User_53,Female,59,Pune,2023-03-30,Basic
+150,Movie_150,Drama,Hindi,2007,102,Canada,458,204,2,2023-11-12,Laptop,Poor,User_204,Female,53,Chennai,2023-01-12,Basic
+150,Movie_150,Drama,Hindi,2007,102,Canada,499,61,3,2024-11-22,Mobile,Average,User_61,Female,44,Delhi,2024-12-04,Premium
+151,Movie_151,Drama,Kannada,2004,175,UK,176,51,5,2022-10-22,Laptop,Average,User_51,Male,58,Mumbai,2024-04-21,Basic
+151,Movie_151,Drama,Kannada,2004,175,UK,351,201,3,2022-03-18,Laptop,Poor,User_201,Female,51,Delhi,2024-06-03,Basic
+152,Movie_152,Horror,Kannada,2019,136,UK,283,219,3,2022-09-08,Laptop,Good,User_219,Male,30,Mumbai,2020-06-20,Premium
+152,Movie_152,Horror,Kannada,2019,136,UK,320,164,4,2023-05-30,TV,Excellent,User_164,Male,43,Pune,2021-05-15,Free
+153,Movie_153,Comedy,Hindi,2015,98,India,60,76,1,2023-04-12,Mobile,Must Watch,User_76,Female,35,Delhi,2022-12-10,Free
+154,Movie_154,Comedy,Telugu,2016,89,UK,417,27,2,2022-10-18,TV,Poor,User_27,Male,54,Delhi,2021-05-08,Basic
+155,Movie_155,Action,English,2019,175,India,125,100,4,2022-05-06,Mobile,Excellent,User_100,Male,29,Mumbai,2020-09-05,Premium
+156,Movie_156,Sci-Fi,Hindi,2020,150,Canada,74,62,3,2022-07-18,Mobile,Average,User_62,Male,49,Chennai,2020-11-04,Free
+156,Movie_156,Sci-Fi,Hindi,2020,150,Canada,260,147,5,2024-06-15,Mobile,Must Watch,User_147,Male,46,Chennai,2022-02-23,Free
+156,Movie_156,Sci-Fi,Hindi,2020,150,Canada,271,66,4,2022-10-05,Mobile,Good,User_66,Male,42,Kolkata,2022-01-07,Basic
+156,Movie_156,Sci-Fi,Hindi,2020,150,Canada,337,159,1,2024-08-06,TV,Good,User_159,Female,24,Kolkata,2021-12-22,Free
+157,Movie_157,Sci-Fi,Hindi,2007,143,India,391,159,3,2022-02-09,Mobile,Average,User_159,Female,24,Kolkata,2021-12-22,Free
+157,Movie_157,Sci-Fi,Hindi,2007,143,India,453,133,4,2023-05-04,TV,Poor,User_133,Female,50,Chennai,2023-10-18,Premium
+158,Movie_158,Action,Telugu,2008,123,Australia,398,50,3,2024-12-20,Laptop,Good,User_50,Female,57,Pune,2020-05-08,Free
+158,Movie_158,Action,Telugu,2008,123,Australia,459,162,1,2023-02-01,Mobile,Good,User_162,Female,43,Pune,2024-12-28,Premium
+159,Movie_159,Horror,Kannada,2009,81,Canada,147,36,5,2024-07-20,Laptop,Must Watch,User_36,Male,19,Delhi,2024-02-16,Premium
+159,Movie_159,Horror,Kannada,2009,81,Canada,149,119,4,2024-02-03,Laptop,Excellent,User_119,Male,47,Delhi,2022-03-17,Premium
+159,Movie_159,Horror,Kannada,2009,81,Canada,410,58,4,2022-01-23,Mobile,Good,User_58,Female,30,Mumbai,2021-11-06,Free
+159,Movie_159,Horror,Kannada,2009,81,Canada,486,136,5,2022-11-28,Mobile,Excellent,User_136,Female,26,Chennai,2020-02-19,Free
+161,Movie_161,Action,English,2006,83,Australia,41,14,2,2023-03-24,Mobile,Good,User_14,Male,54,Mumbai,2023-08-02,Free
+161,Movie_161,Action,English,2006,83,Australia,496,78,4,2023-02-16,Laptop,Excellent,User_78,Male,18,Chennai,2021-04-10,Free
+162,Movie_162,Comedy,Hindi,2018,86,Australia,139,116,2,2022-10-27,Laptop,Excellent,User_116,Female,30,Mumbai,2023-07-17,Basic
+162,Movie_162,Comedy,Hindi,2018,86,Australia,148,132,3,2024-01-12,TV,Excellent,User_132,Female,51,Chennai,2023-08-08,Basic
+162,Movie_162,Comedy,Hindi,2018,86,Australia,206,121,1,2023-12-01,Laptop,Excellent,User_121,Female,15,Kolkata,2024-08-31,Premium
+162,Movie_162,Comedy,Hindi,2018,86,Australia,261,236,5,2024-03-02,Laptop,Must Watch,User_236,Female,26,Chennai,2022-03-06,Premium
+163,Movie_163,Action,Hindi,2004,154,Canada,6,144,5,2022-12-18,TV,Must Watch,User_144,Male,26,Chennai,2023-11-12,Free
+164,Movie_164,Comedy,Kannada,2001,162,India,43,244,1,2022-05-19,Mobile,Poor,User_244,Male,27,Kolkata,2022-06-26,Premium
+164,Movie_164,Comedy,Kannada,2001,162,India,276,3,5,2022-11-20,Mobile,Must Watch,User_3,Female,44,Pune,2022-06-11,Premium
+164,Movie_164,Comedy,Kannada,2001,162,India,312,55,4,2022-07-05,Laptop,Poor,User_55,Female,30,Delhi,2023-05-15,Free
+164,Movie_164,Comedy,Kannada,2001,162,India,370,236,3,2022-10-23,Laptop,Must Watch,User_236,Female,26,Chennai,2022-03-06,Premium
+165,Movie_165,Drama,Hindi,2003,89,Canada,98,17,5,2023-02-26,TV,Good,User_17,Male,42,Mumbai,2020-12-21,Free
+165,Movie_165,Drama,Hindi,2003,89,Canada,266,222,1,2023-11-30,TV,Good,User_222,Female,44,Chennai,2021-11-30,Basic
+166,Movie_166,Drama,Hindi,2000,175,Australia,90,137,3,2022-11-23,Mobile,Good,User_137,Male,35,Kolkata,2021-12-25,Free
+167,Movie_167,Horror,Tamil,2023,93,USA,108,48,3,2023-05-19,TV,Must Watch,User_48,Male,41,Delhi,2021-07-20,Free
+167,Movie_167,Horror,Tamil,2023,93,USA,439,104,4,2023-08-16,Mobile,Average,User_104,Male,41,Chennai,2021-08-10,Premium
+168,Movie_168,Sci-Fi,Kannada,2009,168,India,23,149,4,2023-04-29,Mobile,Must Watch,User_149,Male,43,Pune,2023-06-24,Premium
+168,Movie_168,Sci-Fi,Kannada,2009,168,India,190,245,4,2022-01-22,Laptop,Excellent,User_245,Male,35,Pune,2022-11-24,Free
+169,Movie_169,Horror,Kannada,2020,171,USA,83,94,3,2022-11-15,TV,Good,User_94,Male,22,Mumbai,2024-03-21,Basic
+170,Movie_170,Action,Hindi,2018,116,Canada,68,158,5,2023-02-21,Laptop,Poor,User_158,Female,54,Kolkata,2024-09-28,Free
+170,Movie_170,Action,Hindi,2018,116,Canada,227,13,2,2023-10-16,TV,Average,User_13,Male,57,Pune,2022-07-04,Premium
+170,Movie_170,Action,Hindi,2018,116,Canada,303,244,1,2023-04-11,Laptop,Must Watch,User_244,Male,27,Kolkata,2022-06-26,Premium
+170,Movie_170,Action,Hindi,2018,116,Canada,386,239,4,2024-04-09,TV,Excellent,User_239,Male,23,Pune,2022-04-27,Free
+171,Movie_171,Action,Tamil,2003,122,USA,42,49,2,2023-10-12,Mobile,Average,User_49,Male,30,Delhi,2021-06-22,Basic
+171,Movie_171,Action,Tamil,2003,122,USA,135,43,2,2023-09-08,TV,Poor,User_43,Female,45,Kolkata,2021-05-16,Premium
+171,Movie_171,Action,Tamil,2003,122,USA,275,143,3,2022-05-08,Laptop,Excellent,User_143,Male,38,Delhi,2021-03-04,Basic
+172,Movie_172,Action,Kannada,2019,174,UK,126,221,4,2022-11-13,Laptop,Poor,User_221,Female,35,Pune,2024-06-19,Basic
+172,Movie_172,Action,Kannada,2019,174,UK,294,31,1,2024-08-17,Laptop,Poor,User_31,Female,51,Kolkata,2020-04-05,Basic
+172,Movie_172,Action,Kannada,2019,174,UK,431,51,1,2024-07-03,TV,Must Watch,User_51,Male,58,Mumbai,2024-04-21,Basic
+173,Movie_173,Sci-Fi,Kannada,2008,169,India,430,111,5,2023-06-30,Laptop,Excellent,User_111,Female,29,Chennai,2022-07-04,Basic
+174,Movie_174,Horror,Hindi,2016,117,Australia,208,75,5,2023-02-28,Laptop,Average,User_75,Male,32,Kolkata,2021-09-19,Premium
+174,Movie_174,Horror,Hindi,2016,117,Australia,216,86,5,2024-05-28,Laptop,Excellent,User_86,Female,15,Chennai,2023-11-13,Basic
+174,Movie_174,Horror,Hindi,2016,117,Australia,399,15,3,2023-01-23,Mobile,Excellent,User_15,Female,32,Pune,2020-04-04,Free
+174,Movie_174,Horror,Hindi,2016,117,Australia,474,116,3,2022-06-16,TV,Good,User_116,Female,30,Mumbai,2023-07-17,Basic
+176,Movie_176,Action,Hindi,2006,102,USA,65,49,4,2022-06-19,Laptop,Must Watch,User_49,Male,30,Delhi,2021-06-22,Basic
+176,Movie_176,Action,Hindi,2006,102,USA,375,68,5,2022-11-24,Laptop,Good,User_68,Male,53,Pune,2020-06-08,Basic
+177,Movie_177,Action,Kannada,2003,108,UK,5,108,1,2023-06-15,Mobile,Poor,User_108,Male,39,Delhi,2020-04-12,Basic
+177,Movie_177,Action,Kannada,2003,108,UK,33,51,3,2023-05-08,TV,Poor,User_51,Male,58,Mumbai,2024-04-21,Basic
+178,Movie_178,Drama,English,2023,100,Canada,106,116,2,2024-12-23,TV,Good,User_116,Female,30,Mumbai,2023-07-17,Basic
+180,Movie_180,Action,Telugu,2010,163,India,298,236,4,2022-10-03,Mobile,Excellent,User_236,Female,26,Chennai,2022-03-06,Premium
+180,Movie_180,Action,Telugu,2010,163,India,419,172,1,2023-03-21,TV,Good,User_172,Male,26,Mumbai,2022-02-18,Free
+181,Movie_181,Action,Tamil,2003,82,USA,15,71,5,2022-02-28,Mobile,Must Watch,User_71,Female,55,Kolkata,2022-03-25,Premium
+181,Movie_181,Action,Tamil,2003,82,USA,52,128,5,2023-05-13,Mobile,Must Watch,User_128,Male,18,Delhi,2023-06-23,Premium
+182,Movie_182,Comedy,Telugu,2000,92,Canada,420,181,1,2023-06-26,TV,Excellent,User_181,Female,56,Chennai,2022-09-11,Free
+183,Movie_183,Comedy,Tamil,2008,160,UK,127,124,3,2024-01-20,Mobile,Average,User_124,Male,25,Chennai,2023-01-12,Premium
+184,Movie_184,Action,Hindi,2007,159,Canada,378,101,1,2023-11-29,TV,Poor,User_101,Male,57,Pune,2024-09-14,Premium
+184,Movie_184,Action,Hindi,2007,159,Canada,488,136,1,2024-10-10,Mobile,Excellent,User_136,Female,26,Chennai,2020-02-19,Free
+186,Movie_186,Drama,Tamil,2019,162,UK,418,46,2,2024-06-05,Mobile,Excellent,User_46,Female,19,Kolkata,2022-08-17,Free
+187,Movie_187,Action,Tamil,2009,147,Canada,156,5,2,2022-07-28,TV,Average,User_5,Male,57,Kolkata,2020-12-23,Basic
+187,Movie_187,Action,Tamil,2009,147,Canada,267,35,3,2022-02-10,TV,Average,User_35,Female,30,Delhi,2022-11-05,Premium
+188,Movie_188,Action,Telugu,2001,124,Australia,97,4,1,2023-05-21,TV,Must Watch,User_4,Female,28,Delhi,2021-04-25,Basic
+188,Movie_188,Action,Telugu,2001,124,Australia,282,191,3,2024-11-22,Mobile,Poor,User_191,Male,29,Pune,2024-05-15,Premium
+189,Movie_189,Drama,Hindi,2022,163,Canada,132,240,5,2024-06-09,Laptop,Good,User_240,Male,17,Mumbai,2021-11-04,Basic
+190,Movie_190,Drama,English,2023,176,UK,425,190,4,2022-06-19,Mobile,Good,User_190,Male,30,Pune,2021-07-27,Premium
+191,Movie_191,Action,Hindi,2012,123,Australia,7,76,1,2022-05-09,Mobile,Average,User_76,Female,35,Delhi,2022-12-10,Free
+191,Movie_191,Action,Hindi,2012,123,Australia,343,175,1,2022-11-11,Laptop,Average,User_175,Male,59,Pune,2020-08-13,Premium
+191,Movie_191,Action,Hindi,2012,123,Australia,355,102,2,2024-02-07,Mobile,Poor,User_102,Male,53,Pune,2022-04-27,Free
+192,Movie_192,Comedy,Hindi,2012,132,Australia,159,143,2,2022-12-18,Mobile,Excellent,User_143,Male,38,Delhi,2021-03-04,Basic
+192,Movie_192,Comedy,Hindi,2012,132,Australia,449,28,5,2024-08-03,TV,Excellent,User_28,Female,26,Chennai,2022-04-18,Free
+193,Movie_193,Comedy,Tamil,2002,101,Australia,45,21,4,2024-05-30,TV,Must Watch,User_21,Female,49,Delhi,2020-08-18,Basic
+193,Movie_193,Comedy,Tamil,2002,101,Australia,165,2,1,2024-10-19,Mobile,Must Watch,User_2,Male,23,Pune,2021-02-26,Free
+193,Movie_193,Comedy,Tamil,2002,101,Australia,285,180,4,2024-07-22,Mobile,Poor,User_180,Female,30,Mumbai,2020-03-30,Basic
+193,Movie_193,Comedy,Tamil,2002,101,Australia,442,88,5,2023-08-26,Laptop,Good,User_88,Male,18,Mumbai,2020-05-24,Free
+194,Movie_194,Action,Hindi,2003,84,India,171,38,3,2024-09-03,TV,Average,User_38,Male,31,Chennai,2023-04-14,Free
+195,Movie_195,Drama,Telugu,2006,159,USA,4,166,3,2023-12-15,TV,Poor,User_166,Male,55,Kolkata,2021-06-23,Basic
+195,Movie_195,Drama,Telugu,2006,159,USA,17,59,4,2022-05-17,TV,Must Watch,User_59,Male,16,Chennai,2023-04-26,Basic
+195,Movie_195,Drama,Telugu,2006,159,USA,500,127,3,2024-05-31,Mobile,Good,User_127,Female,39,Mumbai,2023-03-07,Free
+196,Movie_196,Sci-Fi,Telugu,2002,146,UK,22,77,3,2022-11-09,Mobile,Average,User_77,Female,59,Delhi,2021-04-09,Free
+196,Movie_196,Sci-Fi,Telugu,2002,146,UK,158,85,3,2022-03-29,TV,Poor,User_85,Male,54,Delhi,2020-06-12,Free
+196,Movie_196,Sci-Fi,Telugu,2002,146,UK,188,226,5,2022-06-24,TV,Must Watch,User_226,Male,29,Delhi,2023-05-05,Free
+197,Movie_197,Drama,Kannada,2022,179,Canada,456,144,4,2023-02-28,Mobile,Excellent,User_144,Male,26,Chennai,2023-11-12,Free
+198,Movie_198,Horror,Hindi,2011,129,USA,69,148,1,2022-12-06,Laptop,Good,User_148,Female,46,Pune,2022-03-08,Basic
+198,Movie_198,Horror,Hindi,2011,129,USA,164,135,4,2024-01-31,Laptop,Poor,User_135,Female,57,Delhi,2022-01-13,Free
+198,Movie_198,Horror,Hindi,2011,129,USA,212,169,3,2024-08-22,Mobile,Must Watch,User_169,Female,40,Chennai,2024-02-23,Free
+198,Movie_198,Horror,Hindi,2011,129,USA,452,186,3,2022-02-11,TV,Average,User_186,Female,59,Mumbai,2022-01-08,Free
+200,Movie_200,Sci-Fi,Telugu,2018,162,USA,331,105,5,2024-07-29,Laptop,Good,User_105,Female,17,Chennai,2020-09-29,Free
+201,Movie_201,Comedy,Tamil,2023,117,USA,236,172,4,2022-01-16,Mobile,Average,User_172,Male,26,Mumbai,2022-02-18,Free
+201,Movie_201,Comedy,Tamil,2023,117,USA,315,145,4,2024-05-20,TV,Average,User_145,Female,19,Kolkata,2021-08-22,Basic
+201,Movie_201,Comedy,Tamil,2023,117,USA,416,70,3,2023-10-23,Mobile,Poor,User_70,Female,22,Chennai,2024-05-22,Free
+202,Movie_202,Comedy,English,2000,155,Australia,228,106,4,2024-06-15,Laptop,Average,User_106,Male,56,Delhi,2024-02-12,Basic
+202,Movie_202,Comedy,English,2000,155,Australia,250,240,5,2023-08-12,Mobile,Good,User_240,Male,17,Mumbai,2021-11-04,Basic
+202,Movie_202,Comedy,English,2000,155,Australia,352,23,3,2024-05-11,Mobile,Average,User_23,Male,37,Mumbai,2021-12-05,Basic
+203,Movie_203,Horror,English,2015,97,Canada,56,215,5,2024-01-10,Laptop,Poor,User_215,Female,32,Delhi,2020-12-09,Free
+204,Movie_204,Action,Telugu,2024,128,USA,55,109,1,2024-07-15,Laptop,Good,User_109,Male,53,Pune,2020-05-03,Premium
+204,Movie_204,Action,Telugu,2024,128,USA,187,217,1,2023-09-07,Laptop,Must Watch,User_217,Female,39,Kolkata,2022-03-05,Basic
+204,Movie_204,Action,Telugu,2024,128,USA,210,42,4,2022-04-27,Laptop,Must Watch,User_42,Male,56,Mumbai,2022-07-20,Basic
+205,Movie_205,Horror,Hindi,2008,103,Australia,163,243,2,2024-02-01,Mobile,Must Watch,User_243,Female,25,Pune,2022-04-28,Free
+205,Movie_205,Horror,Hindi,2008,103,Australia,202,85,5,2023-04-27,Laptop,Poor,User_85,Male,54,Delhi,2020-06-12,Free
+206,Movie_206,Comedy,Telugu,2020,96,India,152,127,1,2024-12-29,TV,Poor,User_127,Female,39,Mumbai,2023-03-07,Free
+206,Movie_206,Comedy,Telugu,2020,96,India,198,169,5,2022-06-22,Mobile,Excellent,User_169,Female,40,Chennai,2024-02-23,Free
+207,Movie_207,Comedy,Tamil,2013,80,Canada,178,192,3,2022-01-16,Laptop,Average,User_192,Female,50,Pune,2021-02-04,Premium
+207,Movie_207,Comedy,Tamil,2013,80,Canada,323,192,3,2022-05-08,Mobile,Average,User_192,Female,50,Pune,2021-02-04,Premium
+207,Movie_207,Comedy,Tamil,2013,80,Canada,403,213,5,2022-02-25,Laptop,Excellent,User_213,Male,27,Chennai,2022-10-27,Premium
+208,Movie_208,Comedy,Tamil,2017,177,Canada,75,165,4,2022-03-27,TV,Excellent,User_165,Female,44,Kolkata,2023-07-24,Basic
+208,Movie_208,Comedy,Tamil,2017,177,Canada,205,184,1,2023-03-20,TV,Must Watch,User_184,Female,44,Kolkata,2023-01-16,Basic
+208,Movie_208,Comedy,Tamil,2017,177,Canada,385,236,4,2023-04-12,Mobile,Good,User_236,Female,26,Chennai,2022-03-06,Premium
+209,Movie_209,Sci-Fi,Hindi,2024,174,USA,179,176,5,2024-11-05,Mobile,Excellent,User_176,Male,48,Mumbai,2023-12-19,Premium
+211,Movie_211,Action,English,2007,92,Canada,89,84,1,2023-11-04,Mobile,Average,User_84,Male,15,Kolkata,2024-02-03,Free
+212,Movie_212,Drama,Hindi,2008,95,Australia,100,174,3,2023-11-19,Laptop,Excellent,User_174,Male,26,Pune,2021-08-23,Premium
+213,Movie_213,Horror,Hindi,2012,96,Australia,256,47,2,2024-11-14,TV,Average,User_47,Female,21,Kolkata,2023-08-01,Basic
+213,Movie_213,Horror,Hindi,2012,96,Australia,309,193,1,2023-02-20,TV,Average,User_193,Female,31,Kolkata,2022-05-14,Basic
+214,Movie_214,Drama,English,2006,134,UK,455,8,5,2023-02-28,Mobile,Must Watch,User_8,Male,27,Kolkata,2020-11-07,Free
+215,Movie_215,Comedy,Hindi,2013,129,India,123,172,4,2022-09-30,Laptop,Must Watch,User_172,Male,26,Mumbai,2022-02-18,Free
+215,Movie_215,Comedy,Hindi,2013,129,India,291,200,1,2023-03-24,TV,Good,User_200,Male,37,Pune,2024-12-28,Basic
+216,Movie_216,Sci-Fi,Kannada,2009,91,UK,58,118,5,2022-10-28,Laptop,Excellent,User_118,Female,25,Chennai,2022-01-05,Basic
+216,Movie_216,Sci-Fi,Kannada,2009,91,UK,451,222,5,2023-12-30,TV,Good,User_222,Female,44,Chennai,2021-11-30,Basic
+216,Movie_216,Sci-Fi,Kannada,2009,91,UK,472,209,4,2024-08-27,TV,Good,User_209,Male,38,Delhi,2021-06-16,Free
+216,Movie_216,Sci-Fi,Kannada,2009,91,UK,483,243,4,2023-07-25,TV,Must Watch,User_243,Female,25,Pune,2022-04-28,Free
+218,Movie_218,Horror,Kannada,2006,161,UK,2,48,2,2022-12-09,TV,Poor,User_48,Male,41,Delhi,2021-07-20,Free
+218,Movie_218,Horror,Kannada,2006,161,UK,107,12,2,2022-02-23,Laptop,Must Watch,User_12,Female,40,Pune,2020-11-22,Free
+218,Movie_218,Horror,Kannada,2006,161,UK,346,173,4,2023-04-09,Mobile,Excellent,User_173,Male,15,Mumbai,2020-02-08,Premium
+218,Movie_218,Horror,Kannada,2006,161,UK,371,60,1,2022-12-19,Laptop,Excellent,User_60,Male,15,Mumbai,2022-01-09,Premium
+219,Movie_219,Action,Telugu,2018,157,USA,94,120,3,2022-12-30,Laptop,Good,User_120,Female,33,Delhi,2024-11-01,Free
+220,Movie_220,Drama,English,2024,147,UK,251,232,5,2024-09-08,Mobile,Poor,User_232,Male,22,Delhi,2020-02-25,Basic
+220,Movie_220,Drama,English,2024,147,UK,438,173,3,2024-05-06,Laptop,Good,User_173,Male,15,Mumbai,2020-02-08,Premium
+220,Movie_220,Drama,English,2024,147,UK,491,150,2,2022-10-28,Mobile,Excellent,User_150,Female,31,Pune,2022-11-09,Free
+221,Movie_221,Comedy,Hindi,2005,146,USA,70,131,4,2022-07-20,Laptop,Poor,User_131,Male,27,Mumbai,2024-05-02,Premium
+221,Movie_221,Comedy,Hindi,2005,146,USA,79,213,4,2023-12-27,TV,Must Watch,User_213,Male,27,Chennai,2022-10-27,Premium
+221,Movie_221,Comedy,Hindi,2005,146,USA,144,123,5,2024-11-29,Laptop,Poor,User_123,Female,26,Pune,2021-10-16,Premium
+221,Movie_221,Comedy,Hindi,2005,146,USA,242,155,4,2024-08-07,TV,Good,User_155,Female,52,Pune,2024-09-10,Basic
+221,Movie_221,Comedy,Hindi,2005,146,USA,341,226,2,2022-10-25,Mobile,Excellent,User_226,Male,29,Delhi,2023-05-05,Free
+222,Movie_222,Drama,Kannada,2016,101,UK,16,203,2,2024-12-12,Laptop,Average,User_203,Female,25,Mumbai,2024-09-13,Free
+222,Movie_222,Drama,Kannada,2016,101,UK,87,5,2,2024-12-03,TV,Poor,User_5,Male,57,Kolkata,2020-12-23,Basic
+222,Movie_222,Drama,Kannada,2016,101,UK,220,70,2,2022-07-31,Mobile,Poor,User_70,Female,22,Chennai,2024-05-22,Free
+222,Movie_222,Drama,Kannada,2016,101,UK,252,64,3,2022-02-07,Mobile,Good,User_64,Female,52,Kolkata,2023-12-01,Free
+223,Movie_223,Horror,Telugu,2023,107,India,310,140,2,2022-09-14,Laptop,Must Watch,User_140,Male,58,Chennai,2024-10-27,Free
+223,Movie_223,Horror,Telugu,2023,107,India,316,176,1,2022-10-26,Mobile,Average,User_176,Male,48,Mumbai,2023-12-19,Premium
+223,Movie_223,Horror,Telugu,2023,107,India,463,185,3,2024-07-10,Laptop,Must Watch,User_185,Male,42,Delhi,2020-01-25,Basic
+225,Movie_225,Sci-Fi,English,2017,103,UK,157,37,5,2023-06-26,Laptop,Average,User_37,Male,47,Mumbai,2023-08-25,Basic
+225,Movie_225,Sci-Fi,English,2017,103,UK,173,149,5,2023-02-01,Laptop,Good,User_149,Male,43,Pune,2023-06-24,Premium
+225,Movie_225,Sci-Fi,English,2017,103,UK,365,12,3,2023-02-12,TV,Excellent,User_12,Female,40,Pune,2020-11-22,Free
+226,Movie_226,Drama,Telugu,2020,134,UK,203,202,2,2024-12-20,Mobile,Excellent,User_202,Female,21,Delhi,2022-04-15,Premium
+226,Movie_226,Drama,Telugu,2020,134,UK,427,92,5,2023-05-02,TV,Excellent,User_92,Male,50,Mumbai,2023-10-02,Premium
+227,Movie_227,Drama,English,2013,151,Canada,66,103,5,2024-06-12,Laptop,Average,User_103,Female,16,Kolkata,2024-07-21,Free
+227,Movie_227,Drama,English,2013,151,Canada,255,77,4,2023-01-23,Mobile,Good,User_77,Female,59,Delhi,2021-04-09,Free
+227,Movie_227,Drama,English,2013,151,Canada,466,240,2,2024-07-11,Mobile,Must Watch,User_240,Male,17,Mumbai,2021-11-04,Basic
+228,Movie_228,Drama,English,2017,156,UK,49,64,5,2024-07-19,TV,Excellent,User_64,Female,52,Kolkata,2023-12-01,Free
+229,Movie_229,Drama,Kannada,2005,87,India,9,59,4,2023-06-10,Laptop,Must Watch,User_59,Male,16,Chennai,2023-04-26,Basic
+229,Movie_229,Drama,Kannada,2005,87,India,234,114,1,2024-02-05,TV,Good,User_114,Female,23,Kolkata,2024-03-21,Premium
+230,Movie_230,Sci-Fi,Hindi,2011,155,India,80,226,1,2024-06-08,Mobile,Good,User_226,Male,29,Delhi,2023-05-05,Free
+231,Movie_231,Drama,Tamil,2023,142,India,406,78,2,2023-08-08,Mobile,Good,User_78,Male,18,Chennai,2021-04-10,Free
+232,Movie_232,Comedy,English,2008,108,Australia,356,24,1,2023-02-09,Mobile,Good,User_24,Female,20,Delhi,2022-11-30,Basic
+234,Movie_234,Comedy,English,2009,166,Canada,279,186,2,2023-11-16,Laptop,Must Watch,User_186,Female,59,Mumbai,2022-01-08,Free
+234,Movie_234,Comedy,English,2009,166,Canada,289,78,1,2023-08-06,Laptop,Excellent,User_78,Male,18,Chennai,2021-04-10,Free
+235,Movie_235,Horror,Hindi,2002,99,Australia,39,80,3,2022-10-18,Laptop,Average,User_80,Female,22,Chennai,2024-07-07,Premium
+235,Movie_235,Horror,Hindi,2002,99,Australia,226,7,2,2023-04-13,TV,Good,User_7,Male,17,Delhi,2020-02-18,Basic
+236,Movie_236,Drama,Hindi,2023,109,Canada,133,211,1,2024-07-07,Laptop,Poor,User_211,Male,34,Delhi,2020-07-11,Basic
+236,Movie_236,Drama,Hindi,2023,109,Canada,194,177,4,2023-08-25,TV,Must Watch,User_177,Male,33,Mumbai,2022-07-14,Basic
+236,Movie_236,Drama,Hindi,2023,109,Canada,215,60,3,2024-12-09,Mobile,Good,User_60,Male,15,Mumbai,2022-01-09,Premium
+236,Movie_236,Drama,Hindi,2023,109,Canada,248,83,1,2024-09-29,Laptop,Poor,User_83,Female,43,Delhi,2021-10-31,Basic
+237,Movie_237,Drama,English,2020,107,USA,339,225,1,2024-05-12,TV,Poor,User_225,Female,41,Mumbai,2020-02-29,Basic
+238,Movie_238,Comedy,Telugu,2004,113,UK,270,156,3,2024-06-23,Mobile,Excellent,User_156,Female,51,Pune,2023-08-04,Free
+238,Movie_238,Comedy,Telugu,2004,113,UK,397,81,4,2022-09-13,TV,Good,User_81,Female,57,Mumbai,2024-12-01,Premium
+239,Movie_239,Drama,Hindi,2023,81,UK,28,222,2,2024-01-25,TV,Must Watch,User_222,Female,44,Chennai,2021-11-30,Basic
+239,Movie_239,Drama,Hindi,2023,81,UK,257,169,3,2022-04-25,Mobile,Good,User_169,Female,40,Chennai,2024-02-23,Free
+239,Movie_239,Drama,Hindi,2023,81,UK,306,99,4,2024-09-03,Mobile,Good,User_99,Male,33,Chennai,2021-09-10,Free
+240,Movie_240,Drama,Kannada,2019,175,UK,10,244,2,2023-07-29,Mobile,Good,User_244,Male,27,Kolkata,2022-06-26,Premium
+241,Movie_241,Drama,Hindi,2002,95,USA,211,25,1,2022-11-15,TV,Good,User_25,Female,23,Chennai,2021-01-01,Basic
+241,Movie_241,Drama,Hindi,2002,95,USA,274,49,3,2023-12-30,TV,Excellent,User_49,Male,30,Delhi,2021-06-22,Basic
+241,Movie_241,Drama,Hindi,2002,95,USA,461,102,1,2024-08-04,Laptop,Average,User_102,Male,53,Pune,2022-04-27,Free
+242,Movie_242,Drama,Telugu,2007,171,UK,241,169,2,2023-03-09,Laptop,Good,User_169,Female,40,Chennai,2024-02-23,Free
+242,Movie_242,Drama,Telugu,2007,171,UK,435,118,2,2023-07-20,Laptop,Average,User_118,Female,25,Chennai,2022-01-05,Basic
+242,Movie_242,Drama,Telugu,2007,171,UK,473,234,2,2024-12-30,Mobile,Average,User_234,Female,44,Mumbai,2023-05-07,Premium
+243,Movie_243,Horror,Telugu,2009,140,Australia,77,249,5,2023-02-24,Mobile,Average,User_249,Female,41,Kolkata,2024-08-14,Free
+243,Movie_243,Horror,Telugu,2009,140,Australia,225,160,2,2023-08-25,Laptop,Good,User_160,Female,33,Mumbai,2023-09-30,Premium
+243,Movie_243,Horror,Telugu,2009,140,Australia,292,187,1,2024-03-21,Mobile,Average,User_187,Female,53,Kolkata,2022-09-22,Basic
+243,Movie_243,Horror,Telugu,2009,140,Australia,423,27,2,2023-09-09,TV,Good,User_27,Male,54,Delhi,2021-05-08,Basic
+244,Movie_244,Comedy,Hindi,2024,114,India,146,3,4,2023-01-01,Mobile,Poor,User_3,Female,44,Pune,2022-06-11,Premium
+244,Movie_244,Comedy,Hindi,2024,114,India,326,241,1,2022-01-17,Laptop,Good,User_241,Male,48,Mumbai,2023-08-26,Basic
+245,Movie_245,Action,Telugu,2018,123,Canada,353,220,2,2024-01-22,Mobile,Excellent,User_220,Female,39,Chennai,2020-08-24,Basic
+245,Movie_245,Action,Telugu,2018,123,Canada,388,106,3,2024-10-15,Mobile,Average,User_106,Male,56,Delhi,2024-02-12,Basic
+246,Movie_246,Sci-Fi,Hindi,2000,125,India,48,185,1,2024-11-12,Laptop,Must Watch,User_185,Male,42,Delhi,2020-01-25,Basic
+247,Movie_247,Sci-Fi,Kannada,2023,148,Australia,63,13,3,2022-07-22,Mobile,Must Watch,User_13,Male,57,Pune,2022-07-04,Premium
+248,Movie_248,Horror,Kannada,2018,148,USA,54,53,2,2024-05-23,TV,Excellent,User_53,Female,59,Pune,2023-03-30,Basic
+248,Movie_248,Horror,Kannada,2018,148,USA,129,198,3,2023-10-02,Mobile,Good,User_198,Male,16,Mumbai,2021-03-14,Basic
+248,Movie_248,Horror,Kannada,2018,148,USA,305,58,1,2023-05-02,Mobile,Excellent,User_58,Female,30,Mumbai,2021-11-06,Free
+248,Movie_248,Horror,Kannada,2018,148,USA,379,53,4,2022-08-20,Mobile,Good,User_53,Female,59,Pune,2023-03-30,Basic
+248,Movie_248,Horror,Kannada,2018,148,USA,400,224,5,2022-01-01,Mobile,Average,User_224,Female,16,Chennai,2021-08-30,Basic
+248,Movie_248,Horror,Kannada,2018,148,USA,412,213,5,2023-05-22,Laptop,Poor,User_213,Male,27,Chennai,2022-10-27,Premium
+250,Movie_250,Horror,Kannada,2017,83,India,78,126,2,2024-07-04,TV,Average,User_126,Female,53,Pune,2020-03-11,Free
+250,Movie_250,Horror,Kannada,2017,83,India,116,90,2,2022-03-09,Mobile,Poor,User_90,Male,31,Mumbai,2022-10-22,Premium
+250,Movie_250,Horror,Kannada,2017,83,India,145,109,3,2024-07-30,Laptop,Must Watch,User_109,Male,53,Pune,2020-05-03,Premium
+250,Movie_250,Horror,Kannada,2017,83,India,358,210,5,2022-10-19,Laptop,Poor,User_210,Female,54,Pune,2020-11-04,Premium
+250,Movie_250,Horror,Kannada,2017,83,India,359,130,4,2023-02-01,TV,Poor,User_130,Male,30,Mumbai,2021-04-20,Free
+250,Movie_250,Horror,Kannada,2017,83,India,408,163,4,2022-09-26,Laptop,Good,User_163,Female,25,Chennai,2020-11-11,Free
